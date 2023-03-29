@@ -1,0 +1,33 @@
+{
+    "Name": "Имя",
+    "Email Address": "Email",
+    "Password": "Пароль",
+    "Confirm Password": "Подтверждение пароля",
+    "To register": "Зарегистрироваться",
+    "Register": "Регистрация",
+    "Login": "Вход",
+    "To login": "Войти",
+    "Logout": "Выйти",
+    "Forgot Your Password?": "Забыли пароль?",
+    "Remember Me": "Запомнить меня",
+    "Verify Your Email Address": "Подтвердить адрес почты",
+    "A fresh verification link has been sent to your email address.": "Ссылка для подтверждения отправлена вам на почту",
+    "Before proceeding, please check your email for a verification link.": "Для продолжения проверьте почту для подтверждения аккаунта",
+    "If you did not receive the email": "Если письмо не пришло",
+    "click here to request another": "перейдите по ссылке, чтобы мы отправили вам еще одно",
+
+    "Public todos": "Списки дел",
+    "My todos": "Мои списки дел",
+    "Friends todos": "Списки друзей",
+
+    "Add todo": "Добавить список дел",
+    "Login to add todo": "Авторизуйтесь, чтобы создавать списки дел",
+    "Title": "Название",
+    "Description": "Описание",
+    "Add item": "Добавить пункт",
+    "Add": "Добавить",
+    "Save": "Сохранить",
+    "Visibility": "Тип",
+    "Private": "Личный",
+    "Public": "Общий"
+}
